@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
 }
 
-/* Estilo de la tarjeta (div principal) */
+
 .card {
     background: linear-gradient(135deg, #e0e0e0, #bdbdbd);
     border-radius: 15px;
